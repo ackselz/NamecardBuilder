@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NamecardBuilder/static/css/main.6fa20df0.css",
+    "main.js": "/NamecardBuilder/static/js/main.1feb1d72.js",
+    "index.html": "/NamecardBuilder/index.html",
+    "static/media/phone_black_24dp.svg": "/NamecardBuilder/static/media/phone_black_24dp.4f06bac04c761b8b63e422c0753e2719.svg",
+    "static/media/email_black_24dp.svg": "/NamecardBuilder/static/media/email_black_24dp.7be6e02d7bdf46a5f64e94b42b255696.svg",
+    "main.6fa20df0.css.map": "/NamecardBuilder/static/css/main.6fa20df0.css.map",
+    "main.1feb1d72.js.map": "/NamecardBuilder/static/js/main.1feb1d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa20df0.css",
+    "static/js/main.1feb1d72.js"
+  ]
+}
